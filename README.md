@@ -3,7 +3,7 @@
 A content-based recommendation engine that maps a user's skills to the closest-matching tech career role using **TF-IDF weighting** and **cosine similarity** — no external ML libraries, pure JavaScript.
 
 ## Live Demo
-https://rahulnarala.github.io/selectsenz-ai/
+https://rahulnarala.github.io/SelectSenz.AI-AI-Tech-Recommender/
 
 ## How it works (IPO pipeline)
 1. **Ingestion** — user selects 3+ skills from a shared, controlled vocabulary (prevents naming mismatches like "Web Design" vs "Frontend Development").
